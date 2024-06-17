@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "497984250500",
+    "project_id": "ssbsafetyapplication",
+    "storage_bucket": "ssbsafetyapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497984250500:android:49d84a1f6fba72d8cc98d1",
+        "android_client_info": {
+          "package_name": "com.example.safetyapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497984250500-uv6rd306gk55o568ogboualc7oslc5cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfaSYgWqRfFOu9z9JAfx0Gkm2tDzZlCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497984250500-uv6rd306gk55o568ogboualc7oslc5cf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497984250500-05pe0mj987eqj659i7k0bubejld0ptfn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.safetyapps.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
